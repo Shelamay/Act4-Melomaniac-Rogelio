@@ -73,11 +73,11 @@
 
 				echo "<p>            D &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp A </p>";
 				echo "<p> Cause it's 12:51 and I thought my feelings were gone </p>";
-				echo "<p> Em   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &    G</p>";
+				echo "<p> Em   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     G</p>";
 				echo "<p> But I'm lying on my bed, thinking of you again </p>";
 				echo "<p> D &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp A </p>";
 				echo "<p> And the moon shines so bright, but I gotta dry these tears tonight </p>";
-				echo "<p> Em   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &    G </p>";
+				echo "<p> Em   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp    G </p>";
 				echo "<p> Cause you're moving on and I'm not that strong to hold on any longer </p>";
 				echo "<br/>";
 				echo "<br/>";
@@ -159,9 +159,6 @@
 				echo "<p> So much stronger </p>";
 				echo "<br/>";
 				echo "<br/>";
-
-
-
 
 
 		?>

@@ -46,7 +46,7 @@ nav ul li .active{
 }
 .image{
 	position: relative;
-	background: url(images/coverko.jpg) no-repeat center;
+	background: url(images/musiclover.jpg) no-repeat center;
 	background-size: cover;
 	height: 400px;
 	overflow: hidden;
@@ -59,17 +59,17 @@ nav ul li .active{
 	transform: translate(-50%, -50%);
 	text-align: center;
 	color: lightgray;
-	font-weight: 200;
+	font-weight: 150;
 	text-transform: uppercase;
 }
 .container h1{
 	margin: 0;
-	font-size: 80px;
+	font-size: 70px;
 }
 .caption{
 	margin: 20px;
 	display: block;
-	font-size: 30px;
+	font-size: 20px;
 	text-transform: none;
 }
 .album{
